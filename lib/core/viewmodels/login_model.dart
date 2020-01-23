@@ -1,4 +1,4 @@
-import 'package:provider_architecture/core/models/viewstate.dart';
+import 'package:provider_architecture/core/enums/viewstate.dart';
 import 'package:provider_architecture/core/services/authentication_service.dart';
 import 'package:provider_architecture/locator.dart';
 

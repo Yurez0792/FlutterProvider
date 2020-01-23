@@ -1,5 +1,5 @@
+import 'package:provider_architecture/core/enums/viewstate.dart';
 import 'package:provider_architecture/core/models/comment.dart';
-import 'package:provider_architecture/core/models/viewstate.dart';
 import 'package:provider_architecture/core/services/api.dart';
 
 import '../../locator.dart';

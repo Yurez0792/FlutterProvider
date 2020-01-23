@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:provider_architecture/core/models/home_model.dart';
+import 'package:provider_architecture/core/enums/viewstate.dart';
 import 'package:provider_architecture/core/models/post.dart';
 import 'package:provider_architecture/core/models/user.dart';
-import 'package:provider_architecture/core/models/viewstate.dart';
+import 'package:provider_architecture/core/viewmodels/home_model.dart';
 import 'package:provider_architecture/ui/base_view.dart';
 import 'package:provider_architecture/ui/shared/app_colors.dart';
 import 'package:provider_architecture/ui/shared/text_styles.dart';
